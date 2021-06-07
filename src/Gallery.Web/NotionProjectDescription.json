@@ -1,0 +1,6 @@
+{
+  "Stack": {
+   "Tecnology": [ "MSSQL", "ASP.NET Core"],
+   "Patterns" : [ "Entity Framwork(CODE FIRST)", "ASP.NET Core(MVC)", "ASP.NET", "Project stucture: ProjectScaffold " ]
+  }
+}
